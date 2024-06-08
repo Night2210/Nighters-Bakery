@@ -15,18 +15,18 @@ State/province/area - Selangor
 Zip code - 42600
 
 Phone Number:
-+60 19-439 5991
+018 764 2035
 
 Cake flavours:
 Chocolate (Available)
-Vanilla (Unavailable)
-Strawberry (Unavailable)
-Blueberry (Unavailable)
+Vanilla (Available)
+Red Velvet (Unavailable)
+Cookies & Cream (Unavailable)
 
 Icing flavours:
 Chocolate (Available)
-Vanilla (UnAvailable)
-Mint (Available)
+Vanilla (Available)
+Mint (Unavailable)
 Strawberry (Available)
 Blueberry (Available)
 
